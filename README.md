@@ -1,16 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap');
-
-  h1, h3, p {
-    font-family: Poppins, sans-serif;
-  }
-
-  ul, li, p {
-    font-size: 16px
-  }
-
-</style>
-
 <h1 align='center', style='color: #3A0560;'>Falconize</h1>
 
 <br>
